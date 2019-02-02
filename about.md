@@ -4,15 +4,17 @@ title: About
 ---
 
 <p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi there! Thanks for coming to my website! I am planning on posting more here, so stay tuned!
 </p>
 
-## About BlackDoc Theme
+## About Daniel Denenberg
 
-Some relevant information about this project:
+![Daniel Denenberg](assets/dannydenenbergpic1.jpeg)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme
-* Ideal for sites requiring master-detail layout such as documentation, cheatsheets, lyrics, notes, etc.
-* Need a beautiful color scheme for black background? Then you will love BlackDoc theme.
 
+
+* Born and raised in [Omaha, Nebraska](https://en.wikipedia.org/wiki/Omaha,_Nebraska)
+* Loves [Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach), the piano, singing, and family
+* Enjoys researching about [deep learning](https://fast.ai) and general computer science
+* Acts in plays around town
+* Here is my <a href="assets/DenenbergDanielResume.docx" download>theater resume</a>
