@@ -9,7 +9,7 @@ description:      "A Jew from Nebraska 🏈🎾"
 url:              https://github.com/karloespiritu/blackdoc
 
 # when using a custom domain, it already points to dannydenenberg.github.io/BlackDoc/, so the baseurl can just be /
-baseurl:          "//"
+baseurl:          "/"
 
 author:
   name:           Daniel Denenberg
