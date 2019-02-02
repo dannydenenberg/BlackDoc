@@ -7,10 +7,12 @@ title:            Danny Denenberg
 tagline:          Black Theme for Jekyll
 description:      "A Jew from Nebraska 🏈🎾"
 url:              https://github.com/karloespiritu/blackdoc
-baseurl:          /BlackDoc/
+
+# when using a custom domain, it already points to dannydenenberg.github.io/BlackDoc/, so the baseurl can just be /
+baseurl:          /
 
 author:
-  name:           Karlo Espiritu
+  name:           Daniel Denenberg
   url:            https://twitter.com/karloespiritu
 
 paginate:         5
