@@ -10,6 +10,7 @@ url:              https://github.com/karloespiritu/blackdoc
 
 # when using a custom domain, it already points to dannydenenberg.github.io/BlackDoc/, so the baseurl can just be /
 baseurl:          "/"
+rooturl:          "/"
 
 author:
   name:           Daniel Denenberg
